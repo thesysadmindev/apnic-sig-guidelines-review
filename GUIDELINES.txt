@@ -1,0 +1,409 @@
+------------------------------------------------------------------------------------------------------------
+Title: APNIC SIG Guidelines
+
+Note: This is a DRAFT DOCUMENT for discussion in line with the current SIG Guidelines as of 28 October 2025.
+For the current document, please refer to https://www.apnic.net/community/participate/sigs/sig-guidelines/
+------------------------------------------------------------------------------------------------------------
+
+
+Table of Contents
+1. Definitions
+	1.1 SIG
+	    1.1.1 SIG Charter
+	1.2 WG
+	1.3 BoF
+	1.4 Chair
+	1.5 Co-Chair
+	1.6 Consensus
+2. Special Interest Groups (SIGs)
+	2.1 Creating a SIG
+	2.2 Dissolving a SIG
+	2.3 SIG Chair and Co-Chair roles
+	    2.3.1 Chair responsibilities
+	    2.3.2 Co-Chair responsibilities
+3. Chair or Co-Chair Elections
+4. Working Groups (WGs)
+5. Birds of a Feather (BoFs)
+6. SIG Presenters
+	6.1 General presentation hints
+7. Code of conduct
+8. Procedure for changing these guidelines
+
+
+1. Definitions
+1.1 SIG
+Special Interest Groups (SIGs) provide an open public forum to discuss topics 
+of interest to APNIC and the Internet community in the Asia Pacific region. 
+SIG forum (in case of Policy SIG, Open Policy Meeting (OPM)) are held at 
+APNIC Conferences. Between SIG forums, discussions continue via subscription-based SIG mailing lists 
+(archived on the APNIC website). SIGs are open to all interested participants.
+
+1.1.1 SIG Charter
+A SIG charter is a short description of the SIG?s purpose and related activities. 
+The AGM/AMM must reach consensus on any new or altered SIG Charter.
+
+1.2 WG
+Working Groups (WGs) focus on a particular work item and exist only as long as it 
+takes to complete the task(s). A working group is usually small and consists of 
+volunteers willing to dedicate themselves to one particular task. A Working Group 
+reports back to the body that created it.
+
+1.3 BoF
+Birds of a Feather meetings (BoFs) are informal meetings convened for a variety 
+of purposes, such as exchanging information and discussing new ideas or particular 
+issues. They can be proposed and convened at short notice and there is no formal 
+requirement to submit papers or post to mailing lists.
+
+1.4 Chair
+A Chair is responsible for coordinating the activities of a SIG, BoF, or WG. The 
+role of Chair is voluntary.
+
+1.5 Co-Chair 
+Co-Chairs work with the Chair to coordinate the activities of a SIG, BoF, or WG. 
+The role of Co-Chair is voluntary.
+
+1.6 Consensus 
+Consensus is achieved when everyone consents to the decision of the group. The 
+decision may not be everyone?s first preference, but is acceptable to all participants. 
+For more information refer to APNIC Policy Development Process here
+https://www.apnic.net/about-apnic/corporate-documents/documents/policy-development/development-process/
+
+1.7 AGM/AMM
+APNIC General Meeting (AGM) is held at APRICOT/APNIC conference and APNIC Member Meeting (AMM) 
+is held at APNIC standalone conference. APNIC Executive Council(EC) elections take place at 
+the AGM and NRO NC elections take place at the AMM.
+
+
+2. Special Interest Groups (SIGs)
+2.1 Creating a SIG
+The recommendation to create a new SIG may come from:
+- Mailing list discussions
+- An existing SIG
+- AGM/AMM endorsement
+- A BoF
+
+After a new SIG has been recommended, the following steps must occur:
+1. Hold a preliminary BoF 
+A new SIG cannot be created unless a BoF has been held. The purpose of the BoF is to:
+- Determine interest in the proposed subject area
+- Find a person to volunteer as acting Chair
+- Draft a charter for the SIG
+
+2. Seek endorsement at the AGM/AMM 
+The outcomes of the BoF are reported to the AGM/AMM. The report should include the draft 
+charter, BoF attendance numbers, the level of participant interest, and the nature of 
+the discussions. The AGM/AMM attendees will be asked to indicate by a show of hands 
+whether there is consensus to endorse the formation of the new SIG.
+
+3. Create a mailing list for the SIG 
+When the SIG has been endorsed, the APNIC Secretariat will create a subscriber-based 
+mailing list for the SIG. Anyone can subscribe to a SIG mailing list.
+
+4. Formally issue a call for SIG Chair and Co-Chair positions on the mailing list
+The APNIC Secretariat will issue a call for SIG Chair and Co-Chair positions according 
+to the procedure described in Section 3 of this document.
+
+5. At the first forum of the new SIG, endorse the draft charter and elect Chair 
+At the first forum of the new SIG, the attendees will be asked to endorse the proposed 
+charter and to formally elect the Chair for the SIG.
+
+2.2 Dissolving a SIG
+It is not assumed that a SIG will continue to exist indefinitely. Each SIG should 
+periodically review its charter to assess the SIG?s usefulness and relevance.
+
+Signs that a SIG may have outlived its purpose include:
+- Lack of discussion on the mailing lists for more than one year
+- Lack of response to calls for presentations at SIG forums
+- Low attendance at SIG forums
+
+A SIG may be dissolved if the members of the SIG decide that this is an appropriate 
+course of action and this recommendation is approved by the AGM/AMM. Members of the 
+SIG may make the decision to dissolve the SIG via the SIG mailing list or at a SIG 
+forum.
+
+If a SIG is dissolved, all associated mailing lists will be closed for subscription, 
+but the public archives will remain on the APNIC website.
+
+2.3 SIG Chair and Co-Chair roles
+SIG Chairs and Co-Chairs perform a vital role in managing the SIGs. The effectiveness 
+of a SIG is dependent on the active participation of the Chair and the Co-Chair. All 
+SIG Chairs and Co-Chairs undertake their work on a volunteer basis.
+
+SIG Chairs and Co-Chairs are expected to attend at least one of the two APNIC Conferences 
+held each year. The APNIC Secretariat provides Travel Support for SIG Chairs to meet these 
+obligations.
+
+https://www.apnic.net/community/participate/sigs/sig-guidelines/sig-chair-travel-policy/
+Note: Any amendments to the SIG Chair Travel Support is at the sole discretion of the APNIC EC.
+
+When SIG Chairs and Co-Chairs attend an APNIC Conference, and a forum is held for the 
+SIG, they are expected to attend that forum. SIG Chairs and Co-Chairs must remain 
+subscribed to the SIG?s mailing list for the duration of their term.
+
+The roles of the Chair and Co-Chair are listed below:
+- Responsible for facilitating discussions at the SIG, with respect to bottom-up and 
+inclusive spirit, so that SIG participants are comfortable to express their opinions.
+- To accommodate all newly expressed opinions, relevant to the discussions topics at 
+the SIG to be heard.
+- Before making a consensus decision at the SIG forum, explain to the participants 
+what the question is or decision to be made, and open up the floor for the participants 
+to express their opinions.
+- To consider all opinions expressed in a balanced manner, before making the consensus 
+decision.
+- The consensus decision must be shared with the SIG participants. When reporting to 
+the AGM/AMM about consensus decisions at the SIG, information should be consistent 
+with what was shared with the SIG participants.
+
+2.3.1 Chair responsibilities
+In addition to the roles described in Section 2.3 above, the administrative responsibilities 
+of the Chair and Co-Chair are listed below:
+
+Before an APNIC Conference
+- Monitor mailing list discussions
+- Call for presentations (or Policy proposals if Policy SIG) on the appropriate mailing list
+- Read or review submitted proposals or presentations
+- Accept or reject proposals or presentations for discussion at the forthcoming SIG forum 
+(and suggest an alternative forum if the topic is not within SIG charter)
+
+The Chair may decide that a proposal or presentation is not suitable for discussion at the 
+forthcoming SIG forum if:
+- the proposal or presentation is out of scope for the SIG charter
+- The proposal or presentation is insufficiently developed to be the basis for a useful 
+discussion
+- The agenda has already been filled by topics of greater priority
+- In case of policy proposals, after coordinating with APNIC Secretariat, announce the 
+proposals to Policy SIG mailing list
+- Liaise with speakers as necessary
+- Coordinate with APNIC Secretariat to publish the SIG forum (or OPM if Policy SIG) agenda
+
+At APNIC Conference
+In case of Policy SIG, Chairs
+- Should meet with proposal authors before the Open Policy Meeting (OPM)
+- Read the author?s slides to familiarise themselves with the proposal details (the SIG Chair(s) 
+should already have read the proposal text before the OPM or forum)
+- Check if any details in the latest original version of the proposal have been changed in the 
+presentation to be shown in the Open Policy Meeting (OPM). If changes have been made, ensure 
+the proposal author submits an updated version of the proposal before the OPM
+- Chair the SIG forum or OPM (at least one out of every two per year)
+- Create agenda presentation slides for the SIG forum or OPM
+- Present slides with SIG open action items (if any). Ask parties responsible for action items 
+to report on the action item status
+- Encourage active participant involvement
+- Confer with Co-Chairs and report any decisions they have reached to the OPM or SIG forum
+- In case of Policy SIG, Chairs meet with EC members and NRO NC before the AGM/AMM to discuss 
+policy proposals approved by consensus
+- Present OPM or SIG forum report to the AGM/AMM
+
+After APNIC Conference
+In case of Policy SIG, Chairs
+- Send policy proposal outcomes to Policy SIG mailing list:
+- Monitor discussion during the comment period
+- Following the end of the comment period, post the decision regarding whether the proposal 
+has maintained consensus.
+- The Chair may delegate tasks to Co-Chairs as necessary.
+
+2.3.2 Co-Chair responsibilities
+Co-Chair tasks include but are not limited to:
+- Attending at least one of the two APNIC Conferences held each year. If SIG forums or OPM 
+are held, SIG Co-Chairs are expected to attend the forum or OPM
+- Remaining subscribed to the SIG mailing list for the duration of their time as Co-Chair
+- Monitoring SIG chat-room discussions and Q&As during the SIG forum or OPM at APNIC Conferences
+- Undertaking any of the tasks normally performed by the SIG Chair, if requested 
+- In the event that a Chair is unavailable to perform some of their duties, the Co-Chair will 
+be expected to be the substitute as required.
+
+3. Chair or Co-Chair Elections
+Chairs and Co-Chairs are elected for a two-year period. Elections occur yearly at APNIC standalone 
+conference. Chair elections and Co-Chair elections occur in alternate years.
+
+The first official Chair of a new SIG will serve for two years. The first official Co-Chair 
+position for a new SIG will be open for election after one year (allowing for the staggered 
+Chair and Co-Chair election timetable). Subsequent Co-Chairs will serve for a full two-year 
+term. If a current Chair/Co-Chair resigns or is removed before the end of the term, the successor 
+will take over the remaining term of the position, and not the regular term (two years).
+
+More than one Co-Chair may be appointed, at the discretion of the Chair. The decision to hold an 
+election for more than one Co-Chair is at the Chair?s discretion. The community may also decide 
+to open up a second Co-Chair position for election, based on consensus at the OPM or SIG forum.
+
+A new Chair or Co-Chair is elected using the following process:
+3.1 The APNIC Secretariat sends a call for nominations to the SIG mailing list and 
+the apnic-talk@apnic.net mailing list so that the widest coverage is received. 
+
+The call contains:
+- Details of the duties of the position
+- The closing date for nominations (one month after the initial call)
+- Where to submit nominations (usually by online form)
+- A request that potential nominees should include a short biography and description of their interest
+
+3.2 Candidates must confirm that they are willing and able to commit to the responsibilities 
+associated with the Chair and Co-Chair positions. If a candidate is not contactable via email, 
+or does not respond, then their nomination will not be confirmed. Unconfirmed candidates will 
+not be eligible for election to the position of SIG Chair or Co-Chair.
+
+3.3 If more than one nomination is received by the closure date, an election must be held. If there is only one candidate,
+the candidate will be elected via acclamation in the SIG forum room.
+
+3.4 SIG elections will use the same online voting system as APNIC EC and NRO NC elections.
+
+3.4.1 Nominations
+1) Nominations are managed by the APNIC Secretariat.
+2) Nominees must reside within the Asia Pacific service region.
+3) Nominees must not have served two or more consecutive terms of two years each term immediately prior to the current election.
+4) Not more than two individuals who have an association with any organisation within a Corporate Group may be elected to any number of SIG or NRO NC chair positions. If an individual from a Corporate Group holds a position on the Executive Council, then no more than one person may be elected to a SIG or NRO NC chair position. This condition does not apply to individuals who only have an association with an Exempt Organisation.
+5) If a member from a Corporate Group is elected to a seat on the Executive Council and there are already two individuals from the same Corporate Group in seats across the SIGs and/or NRO NC, one of the two individuals must resign from their position.
+6) For the purpose of 3.4.1(4-5):
+    6.1) "has an association with" means being a director or significant shareholder of, or being employed by, or having a consulting relationship with, or receiving material compensation from, such organisation.
+    6.2) "Corporate Group" means an organisation (whether incorporated or not), together with all other bodies corporate with the same ultimate beneficial owner, and all their related bodies corporate.
+    6.3) "Exempt Organisation" means an organisation or community body registered in its respective economy that operates on a not-for-profit basis, and performs a function that is wholly unrelated to APNIC's or the SIG's activities (e.g. sporting clubs or academic clubs, etc.).
+7) Individuals cannot hold more than one elected position (EC, SIG, or NRO NC). Those who are elected to a new position must resign from any other currently held EC, SIG or NRO NC position as soon as practicable but no later than 30 days following the election.
+8) Self-nominations are permitted.
+9) Nominees must meet the same eligibility criteria as the voters in Section 3.4.3
+10) Nominees will be invited to provide a recorded video "candidate statement" to be published on the conference website.
+11) If a Chair seat in a SIG is up for nomination, this position must be filled from a co-chair position.
+    11.1) If there are two co-chairs, the two co-chairs shall decide among themselves with the outgoing Chair who will fill the Chair role.
+    11.2) Should they come to an impasse as to which co-chair will fill the seat, a two-party election will be held for community members to decide which co-chair will move into the Chair position.
+    11.3) If there is only one co-chair, the Chair position shall be offered to the co-chair.
+    11.4) A normal election will be held to fill the vacant co-chair position.
+    11.5) If neither of the co-chairs or the sole co-chair are unwilling or unable to fill the chair position, an election will be held to fill the vacant Chair position.
+
+3.4.2 Nomination period
+Nominations will open five (5) weeks before the APNIC conference and close four (4) weeks after the initial call.
+A reminder may be sent seven (7) days before the nominations close date.
+
+All nominations will be listed on the APNIC conference website after the APNIC Secretariat confirms the nominee 
+is willing and able to fulfil the role and obligations in Sections 2.3, 2.3.1 and 2.3.2 of this document.
+
+3.4.3 Voting eligibility
+Each APNIC Member is entitled to cast one vote during the times noted in the SIG election timetable. Online voting entitlements for Member organizations are only available to those individuals who are:
+
+- Corporate Contacts, or
+- Authorized contacts with voting rights given by the Corporate Contact.
+
+In-person attendees at APNIC conferences are also eligible to vote in SIG elections. A conference attendee must meet the following criteria to vote:
+
+1. Registered and attending the current conference in person. The attendee must be checked-in at the registration desk at any time from the start of the conference until 10.00am (conference local time) on the final day of the conference.
+
+2. Registered and attended (in-person or online) at least one of the immediate past eight (8) APRICOT or APNIC standalone conferences (not including the current conference). Eligible registered attendees will vote online in the SIG elections and will be entitled to one vote each. Verification of an individual?s entitlement to vote against official records will be used where necessary. There is no proxy voting at SIG elections. APNIC staff and other RIR staff are ineligible to vote.
+
+3.4.5 Voting period
+Online voting for APNIC Members and eligible registered conference attendees will open two (2) hours after the start of the APNIC
+conference and will close at the end of the lunch break on the last day of the APNIC conference (before the start of the AMM).
+
+3.4.6 Voting Administration
+APNIC Secretariat staff will administer the voting process and answer any queries from voters.
+
+3.4.7 Election results
+SIG online election results will be announced at the AMM. APNIC Secretariat staff or the Election Chair appointed for 
+the NRO NC elections will announce the SIG election results. Election results will also be published on the conference website.
+
+3.4.8 Announcements
+Where applicable, announcements regarding the SIG elections will be posted to the conference website, SIG, and apnic-talk mailing lists.
+The SIG Chair or APNIC Secretariat staff will present information on online voting as the first item of the OPM or SIG forum agenda.
+
+3.4.9 Dates and Times
+SIG online election dates and times will be same as the APNIC standalone conference location timezone and represented in UTC format.
+
+3.5 If a current Co-Chair stands for the position of Chair and is elected, the newly vacant Co-Chair 
+position can be filled by one of the remaining candidates for the Chair position or by a call 
+for volunteers at the OPM or SIG forum.
+
+3.6 Unless new Policy SIG Chairs and Co-Chairs are required immediately, there will be a handover 
+period. Outgoing Chairs and Co-Chairs are expected to follow proposals reaching consensus at 
+the current OPM, to the completion of the Policy Development Process.
+
+3.7 Removing a Chair or Co-Chair
+If a SIG Chair or Co-Chair does not attend one in every two APNIC Conferences and does not attend the SIG forum held at the APNIC
+Conference, the APNIC EC will have discretion to remove the Chair or Co-Chair from their role. The process of electing a replacement will then begin.
+
+If SIG members do not think that the Chair or Co-Chair is sufficiently performing their duties (as described in Sections 2.3, 2.3.1 and 2.3.2), they can express their concerns on the mailing list or in the OPM or SIG forum. If there is consensus that the Chair or Co-Chair is not sufficiently performing their responsibilities, the Chair or Co-Chair will be removed by the APNIC EC. The process of electing a replacement will then begin.
+
+If an individual holds more than one elected position and does not resign in accordance with section 3.4.1 within 30 days of their
+election, the APNIC EC has discretion to remove the individual from their elected positions/s (excluding the position for which they were most recently elected).
+
+3.8 Resignation of a Chair or Co-Chair
+If a SIG Chair resigns, one of the Co-Chairs will assume the role of "Acting Chair" until the next 
+OPM/SIG forum. At least one month prior to the APNIC Conference, the APNIC Secretariat will 
+initiate procedures for electing the new Chair as described in Section 3 of this document.
+
+If there is no Co-Chair, the outgoing Chair or the Secretariat may appoint an "Acting Chair". If 
+a Co-Chair resigns, the Chair will follow the procedure for electing a Co-Chair described in 
+Section 3 of this document.
+
+4. Working Groups (WGs)
+A Working Group (WG) is formed to perform a specific task and report back to the body that created 
+it. When a Working Group has completed its task(s), it is closed.
+
+A Working Group is usually small in size and consists of volunteers willing to dedicate themselves 
+to one particular task. Working Groups usually conduct their discussions on the Working Group?s 
+mailing list, but may also request that time be given for face-to-face discussions at APNIC Conferences. 
+The Chair and Co- Chair of a Working Group help maintain the group?s focus on the tasks delegated to 
+it by the body that created it.
+
+Working Group Chairs may be elected using the process in Section 3 or may be appointed by the Chair 
+of the body that created it.
+
+5. Birds of a Feather (BoFs)
+Birds of a Feather meetings (BoFs) are informal meetings convened for a variety of purposes, such as 
+exchanging information and discussing new ideas or particular issues. They can be proposed and convened 
+at short notice and there is no formal requirement for submission of papers or posting to mailing lists.
+
+The APNIC Secretariat accepts BoF proposals before each APNIC Conference. There is no formal requirement 
+for submission of papers or posting to mailing lists. However, the BoF Chair/Moderator reports on the 
+results of the BoF at the AGM/AMM.
+
+BoFs are an important part of the process of forming a new Special Interest Group (SIG). When a new 
+SIG has been recommended, a preliminary BoF should be held to determine interest in the proposed subject 
+area, the readiness of individuals to volunteer as Chair, and to develop a charter. A new SIG cannot 
+be created unless a BoF has been held. Sometimes the BoF may have to convene more than once to determine 
+interest and participation in the proposed subject.
+
+6. SIG presenters
+SIG Chair(s) will issue a call for presentations at least two months before an APNIC Conference.
+
+6.1 General presentation hints
+6.1.1 Speaking
+The Asia Pacific region includes many different languages and cultures. English is not the first 
+language for the majority of participants at APNIC Conference, and it is important that presentations 
+are clear, easy to follow, and concise:
+- Speak slowly, even if English is your first language
+- Use simple sentence structure rather than complex phrases
+- Try to pause after every slide to give people a chance to absorb the material on the slide
+- Remember to maintain eye contact with the audience. Avoid speaking to the screen or the floor
+- Time your presentations before the forum. Speak out loud when you do this
+
+6.1.2 Presentation slides
+To help conference participants understand your presentation, and to ensure your slides can be read by 
+remote participants watching the webcast of the conference, please:
+- Limit each slide to a maximum of four points, or six to eight lines. Slides with too much content 
+are difficult to understand
+- Use large fonts if you include tables or diagrams
+- Use font and background colours with good contrast
+
+7. Code of conduct
+APNIC coordinates many community activities, including conferences, meetings, trainings, workshops, 
+social events and digital platforms. These are organized for the benefit of all participants and 
+are intended to be valuable and enjoyable to all. A Community Code of Conduct explains expectations 
+for anyone participating in these events and platforms, including delegates, guests, speakers, 
+contributors, commenters, APNIC staff and all others involved. It applies not only to physical events, 
+but also to remote participants, online meeting spaces and digital platforms. 
+https://www.apnic.net/events/apnic-community-code-of-conduct/
+
+8. Procedure for changing these guidelines
+As these guidelines affect the running of all APNIC SIGs, Working Groups, BoFs and the Policy Development 
+Process, any changes must reach consensus among participants of all SIGs.
+
+If a proposal is made to change the SIG Guidelines, the following steps would demonstrate consensus and 
+implement the change.
+1. A proposal, using the policy proposal template, will be posted to the mailing list for all SIGs at 
+least four weeks prior to a joint SIG forum at an APNIC Conference. Refer to 
+https://www.apnic.net/about-apnic/corporate-documents/documents/policy-development/development-process/
+2. One Chair for each SIG will form a panel of Chairs to guide the joint SIG forum and determine the 
+outcome.
+3. Following presentation of the proposal and community discussion, the Chairs will determine if the 
+community has reached a consensus on the change. Refer to 
+https://www.apnic.net/about-apnic/corporate-documents/documents/policy-development/development-process/
+4. One of the SIG Chairs will report the outcome to the AGM/AMM for its consideration.
+5. If consensus is reached at the AGM/AMM, the Secretariat will make changes in accordance with the 
+Document Editorial Policy. 
+<https://www.apnic.net/about-apnic/corporate-documents/documents/policy-development/editorial-policy/>
