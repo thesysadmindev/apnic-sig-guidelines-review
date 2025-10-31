@@ -9,7 +9,7 @@ We invite the community to take part in this review. The SIGs are run by the com
 ## Notes
 
 - To propose changes to the Guidelines document, you can submit a Pull Request (PR) against this repo. In your PR, please explain what changes you have made. So long as the changes are not frivolous and are meaningful, the changes will be merged into the parent document.
-- If you cannot submit a PR or don't have a GitHub account, feel free to send an email to Christopher (chris@thesysadmin.au), Bertrand (apnic@dewel.nc) or Karl (k@rl.ag) with the changes you would like to see made and why. Once received, we will merge them into the parent document.
+- If you cannot submit a PR or don't have a GitHub account, feel free to send an email to Christopher (chris.thesysadmin.au), Bertrand (apnic.dewel.nc) or Karl (k.rl.ag) with the changes you would like to see made and why. Once received, we will merge them into the parent document.
 - You can also contribute by posting to any one of the SIG mailing lists or APNIC-Talk on Orbit (https://orbit.apnic.net/).
 - PRs or changes that have serve no benefit won't be accepted. Please note that rewording text is included in this, unless it is to present the text in a more concise or clearer way.
 - We will also maintain a list of acknowledgements of contributors to the draft. Should you wish to be included, please update the CONTRIBUTORS.md file in this repository with your name and email address. If you wish to remain anonymous in your contribution please do reach out to Bertrand, Karl or myself but please do note that this may impact the ability to respond to comments.
