@@ -286,6 +286,8 @@ In-person attendees at APNIC conferences are also eligible to vote in SIG electi
 
 2. Registered and attended (in-person or online) at least one of the immediate past eight (8) APRICOT or APNIC standalone conferences (not including the current conference). Eligible registered attendees will vote online in the SIG elections and will be entitled to one vote each. Verification of an individual?s entitlement to vote against official records will be used where necessary. There is no proxy voting at SIG elections. APNIC staff and other RIR staff are ineligible to vote.
 
+3. Attendees (in-person or online) and APNIC Members must be subscribed to the corresponding SIG mailing list since a week after the last OPM. 
+
 3.4.5 Voting period
 Online voting for APNIC Members and eligible registered conference attendees will open two (2) hours after the start of the APNIC
 conference and will close at the end of the lunch break on the last day of the APNIC conference (before the start of the AMM).
