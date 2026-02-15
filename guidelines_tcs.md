@@ -59,6 +59,7 @@ Community SIGs (other than Policy SIG and NIR SIG) may be sunset by Executive Co
 * Facilitates meetings and discussions
 * Determines whether consensus has been achieved (as defined below)
 * Represents the SIG to the APNIC community and Executive Council
+* Presides over the selection of content for conferences
 
 ### 4.2 SIG Co-Chair(s)
 
@@ -122,8 +123,11 @@ If consensus cannot be reached, the proposal may be revised or withdrawn in acco
 
 ### 6.7 Removal and Replacement
 
-* A Chair or Co-Chair may step down voluntarily or be removed by community consensus at a SIG meeting
-* Vacancies may be filled through interim appointments until the next election
+* A Chair or Co-Chair may step down voluntarily at any time by way of resignation.
+* Upon the loss of a Chair or Co-Chair, or their permanent incapacitation, the position shall be vacated.
+* Vacancies may be filled through interim appointments until the next election, preferably by a Co-Chair for Chair.
+* The community may request the removal of a Chair or Co-Chair by way of petition to the EC, but a removal is at the sole discretion of the EC after receipt of a petition.
+* Such petitions need to contain a number of signatures that pass two-thirds of the average number of attendees present at the last two SIG meetings.
 
 ---
 
@@ -163,7 +167,16 @@ Participants may appeal procedural decisions, election results, or consensus det
 
 ---
 
-## 11. Revision History
+## 11. Changing These Guidelines
+
+* These guidelines have overarching governance of SIGs and therefore do not form part of the PDP, but they also do not have the same standing as the bylaws of APNIC.
+* Therefore, these guidelunes will require that the community request the formation of a Working Group in the same manner as the formation of any SIG as detailed herein.
+* Such a Working Group would proceed to consult the community over a minimum period of 8 months before presenting the changes to the Annual Members Meeting.
+* The voting process for adopting the new guidelines would be required to meet the same standards as a bylaws change, as determined by APNIC's constitution.
+
+---
+
+## 12. Revision History
 
 * **February 2026:** Revised draft incorporating:
   * Clarified that SIGs are community forums for discussion and knowledge exchange, not governance bodies
