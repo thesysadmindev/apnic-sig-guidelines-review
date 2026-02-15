@@ -59,6 +59,7 @@ Community SIGs (other than Policy SIG and NIR SIG) may be sunset by Executive Co
 * Facilitates meetings and discussions
 * Determines whether consensus has been achieved (as defined below)
 * Represents the SIG to the APNIC community and Executive Council
+* Presides over the selection of content for conferences
 
 ### 4.2 SIG Co-Chair(s)
 
@@ -163,7 +164,16 @@ Participants may appeal procedural decisions, election results, or consensus det
 
 ---
 
-## 11. Revision History
+## 11. Changing These Guidelines
+
+* These guidelines have overarching governance of SIGs and therefore do not form part of the PDP, but they also do not have the same standing as the bylaws of APNIC.
+* Therefore, these guidelunes will require that the community request the formation of a Working Group in the same manner as the formation of any SIG as detailed herein.
+* Such a Working Group would proceed to consult the community over a minimum period of 8 months before presenting the changes to the Annual Members Meeting.
+* The voting process for adopting the new guidelines would be required to meet this same standards as a bylaws change, as determined by APNIC's constitution.
+
+---
+
+## 12. Revision History
 
 * **February 2026:** Revised draft incorporating:
   * Clarified that SIGs are community forums for discussion and knowledge exchange, not governance bodies
